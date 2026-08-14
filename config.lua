@@ -7,8 +7,8 @@ return {
             Role = "Owner"
         },
 
-        [123456789] = {
-            Username = "Friend",
+        [10453219812] = {
+            Username = "xyrandsu",
             Role = "Tester"
         }
 
