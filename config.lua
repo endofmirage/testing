@@ -7,6 +7,11 @@ return {
             Role = "Developer"
         },
 
+        [4708859865] = {
+            Username = "ritualsOT",
+            Role = "Developer"
+        },
+
         [8724292651] = {
             Username = "korvannsc",
             Role = "Developer"
