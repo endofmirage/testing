@@ -22,6 +22,11 @@ return {
             Role = "Tester"
         },
 
+        [10309972309] = {
+            Username = "bngy82mjjn17",
+            Role = "Tester"
+        },
+
         [10718744298] = {
             Username = "Qasentyz",
             Role = "Tester"
