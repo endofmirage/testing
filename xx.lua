@@ -5,7 +5,7 @@
             "role": "Developer"
         },
         "VIP456": {
-            "expires": "2026-12-31",
+            "expires": "2016-12-31",
             "role": "VIP"
         }
     }
